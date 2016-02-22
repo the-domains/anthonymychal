@@ -1,0 +1,28 @@
+name: Anthony Mychal
+favicon: null
+layout_spectrum: 0.5195583994500339
+typography_spectrum: 0.6741006374359131
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7461955863982439
+  lightness: 0.23199080722406507
+  saturation: 0.16708690044470131
+  rhythmicContrast: 0.1858822877984494
+purpose: []
