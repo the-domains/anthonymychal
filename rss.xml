@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Anthony Mychal]]></title>
+        <description><![CDATA[Anthony Mychal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 17:10:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Try this $2 trick to sleep better</p>]]></description>
+            <link>undefined64eebeee-0479-4a31-bcd6-42141522b30a/index.html</link>
+            <guid isPermaLink="false">64eebeee-0479-4a31-bcd6-42141522b30a</guid>
+            <pubDate>Mon, 22 Feb 2016 17:09:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
